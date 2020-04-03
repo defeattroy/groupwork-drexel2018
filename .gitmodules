@@ -34,3 +34,9 @@
 [submodule "group19"]
 	path = group19
 	url = https://github.com/tzl12345678/groupwork19.git
+[submodule "group06"]
+	path = group06
+	url = https://github.com/yanxiao723/groupwork06.git
+[submodule "group13"]
+	path = group13
+	url = https://github.com/BingliangLI/Groupwork13.git
