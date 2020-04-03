@@ -1,0 +1,36 @@
+[submodule "group01"]
+	path = group01
+	url = https://github.com/SonodaUmi114/groupwork01.git
+[submodule "group03"]
+	path = group03
+	url = https://github.com/HurryZhao/groupwork03.git
+[submodule "group05"]
+	path = group05
+	url = https://github.com/dongym18/groupwork05.git
+[submodule "group07"]
+	path = group07
+	url = https://github.com/ZhongYi66/groupwork07.git
+[submodule "group08"]
+	path = group08
+	url = https://github.com/Youmu-Reisen/groupwork08.git
+[submodule "group11"]
+	path = group11
+	url = https://github.com/juzonghan/groupwork11.git
+[submodule "group04"]
+	path = group04
+	url = https://github.com/neetneves/groupwork04.git
+[submodule "group14"]
+	path = group14
+	url = https://github.com/BingliangLI/Groupwork13.git
+[submodule "group16"]
+	path = group16
+	url = https://github.com/2ee8/groupwork16.git
+[submodule "group17"]
+	path = group17
+	url = https://github.com/groupwork17/groupwork17.git
+[submodule "group18"]
+	path = group18
+	url = https://github.com/FishAndWasabi/groupwork18.git
+[submodule "group19"]
+	path = group19
+	url = https://github.com/tzl12345678/groupwork19.git
