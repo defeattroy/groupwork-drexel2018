@@ -19,9 +19,6 @@
 [submodule "group04"]
 	path = group04
 	url = https://github.com/neetneves/groupwork04.git
-[submodule "group14"]
-	path = group14
-	url = https://github.com/BingliangLI/Groupwork13.git
 [submodule "group16"]
 	path = group16
 	url = https://github.com/2ee8/groupwork16.git
